@@ -1,3 +1,3 @@
-# VBA Excel for Stock Analysis
+# Challenge
 
 The objectives of this VBA challenge assignment is to design a more efficient coding for stock analysis. The given coding started with a nested loop, and should be refactored to one loop that does it all. There are 12 green stock companies with stock data on years 2017 and 2018 for analysis. The code with a nested loop took approximate 4 seconds to generate results on 3013 records, while a one loop coding took less than one second. Coding is refactored by writing arrays for all 4 variables in comparison with three arrays and two loops (nested loop) for the job. These codes are refactored successfully without altering the actual function in the code. 
